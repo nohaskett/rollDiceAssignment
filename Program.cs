@@ -4,7 +4,7 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        // Testing for Git
+        // Testing for Git 2.0
 
         // Call from the class
         rollFunction rf = new rollFunction();
